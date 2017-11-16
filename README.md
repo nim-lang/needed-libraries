@@ -11,7 +11,7 @@ If you want to use a library / tool / technology in Nim, please open an issue in
 It would be especially helpful if you
 
 * describe how do you expect the library to work
-* give examples of similar functionality
+* give examples of similar functionality (or similar libraries in other languages)
 * start developing or porting such a library yourself!
 
 Plese first check [the Nim list of libraries](https://nim-lang.org/docs/lib.html)
@@ -20,7 +20,7 @@ Plese first check [the Nim list of libraries](https://nim-lang.org/docs/lib.html
 If you want to contribute to Nim and open source, that's an excellent opportunity!
 
 Find something that you're willing to work on and you can be assigned on the issue.
-You can always ask for more help in the [chat](https://gitter.im/nim-lang/nim/) (you can use gitter, IRC), our [subreddit](https://reddit.com/r/nim/) or the [forum](https://forum.nim-lang.org/)
+You can always ask for more help in the [chat](https://gitter.im/nim-lang/nim/) (you can use gitter, IRC, matrix), our [subreddit](https://reddit.com/r/nim/) or the [forum](https://forum.nim-lang.org/)
 
 You can also start maintaining an existing library if it's abandoned, if you reach agreement with its owner.
 
@@ -37,7 +37,7 @@ It's a good read, and the other sections also help with insight in what's missin
 If you want to find more about Nim, some good resources are:
 
 * [Nim documentation](https://nim-lang.org/documentation.html)
-* [Nim in Action](https://www.manning.com/books/nim-in-action): a book for Nim
+* [Nim in Action](https://book.picheta.me/): a book for Nim
 
 You can always ask for help on the community channels, too.
 
