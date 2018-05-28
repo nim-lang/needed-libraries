@@ -14,7 +14,7 @@ It would be especially helpful if you
 * give examples of similar functionality (or similar libraries in other languages)
 * start developing or porting such a library yourself!
 
-Plese first check [the Nim list of libraries](https://nim-lang.org/docs/lib.html)
+Please first check [the Nim list of libraries](https://nim-lang.org/docs/lib.html)
 
 
 If you want to contribute to Nim and open source, that's an excellent opportunity!
